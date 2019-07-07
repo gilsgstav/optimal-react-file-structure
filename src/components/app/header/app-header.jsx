@@ -1,13 +1,13 @@
-import React from 'react';
-import logo from '../../../assets/images/logo.svg';
-import './app-header.scss';
+import React from "react";
+import logo from "../../../assets/images/logo.svg";
+import "./app-header.scss";
 
 export default function AppHeader() {
   return (
     <header className="app-header">
       <img src={logo} className="app-logo" alt="logo" />
       <p>
-        Edit <code>src/components/app/app.js</code> and save to reload.
+        Edit asasas<code>src/components/app/app.js</code> and save to reload.
       </p>
       <a
         className="app-link"
